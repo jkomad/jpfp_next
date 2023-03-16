@@ -1,6 +1,6 @@
 ## Test Repo
 
-![GitHub last commit](https://img.shields.io/github/last-commit/toffee-tornadoes/test_repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/jkomad/jpfp_next)
 
 ### Tech Stack:
 
